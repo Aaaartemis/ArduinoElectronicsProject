@@ -67,7 +67,7 @@ Ensure that all sensors, actuators, and both Arduino boards are wired **exactly 
 
 ---
 
-### 1️⃣ Initialise Servo Position (Required)
+### Initialise Servo Position (Required)
 
 Upload and run the code in:
 
