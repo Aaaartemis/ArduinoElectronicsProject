@@ -53,7 +53,7 @@ When overheating is detected, Arduino 2 sends a digital signal to Arduino 1, whi
 ```
 ##  How to Run the System
 
-**Important:**  
+**Important Note:**  
 This project **can only be run with the correct electronic connections in place**.  
 Ensure that all sensors, actuators, and both Arduino boards are wired **exactly as described in the project documentation** before uploading any code. Running the system without proper connections may lead to incorrect behaviour or hardware damage.
 
